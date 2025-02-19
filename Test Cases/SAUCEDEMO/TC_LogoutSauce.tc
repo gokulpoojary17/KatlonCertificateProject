@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_LogoutSauce</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dff069c1-1d6b-4f8f-ac7b-5c0ba9c3eb02</testCaseGuid>
+</TestCaseEntity>
