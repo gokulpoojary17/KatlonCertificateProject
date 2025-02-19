@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_First NameLast NameEmailAgeSalaryDepar_b85f53</name>
+   <tag></tag>
+   <elementGuidId>c817d9b9-507f-4d85-85b6-0592e04bdbf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#userForm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='userForm']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;First NameLast NameEmailAgeSalaryDepartmentSubmit&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>00a6c13c-f3a7-4bd3-a360-41ed4dfe4381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>userForm</value>
+      <webElementGuid>8b26db50-e43c-403a-9759-9b7c73f8cb2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>First NameLast NameEmailAgeSalaryDepartmentSubmit</value>
+      <webElementGuid>de8c9128-2e30-4138-bb32-d20cd068465e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userForm&quot;)</value>
+      <webElementGuid>3ce6d928-d734-4802-b6a4-4f1402a27f38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@id='userForm']</value>
+      <webElementGuid>b391d9cd-c7b3-4bd0-b0a2-33a3b8c8d47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/following::form[1]</value>
+      <webElementGuid>0a328ebe-c920-4e46-b4fa-7eabcb6176e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration Form'])[1]/following::form[1]</value>
+      <webElementGuid>600b7506-a1fd-4b11-bf53-f31e4159b3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>f516bbd2-342e-4277-a3f0-7dd25fbe2848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[@id = 'userForm' and (text() = 'First NameLast NameEmailAgeSalaryDepartmentSubmit' or . = 'First NameLast NameEmailAgeSalaryDepartmentSubmit')]</value>
+      <webElementGuid>d15ced0a-08a4-4f10-be96-8aa9a627d357</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_BSE_MEMEBER_ADD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c809426a-6ea3-45a7-8201-956f892ea3ad</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>905bf6a8-f574-4002-911d-38dadb419116</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/testdataexcel2</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>905bf6a8-f574-4002-911d-38dadb419116</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>s1</value>
+      <variableId>c7f10f75-64c0-453c-9cb4-059fc9365001</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>905bf6a8-f574-4002-911d-38dadb419116</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>s2</value>
+      <variableId>26fd08a7-8000-4716-aed3-df1d6736cee4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>905bf6a8-f574-4002-911d-38dadb419116</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>s3</value>
+      <variableId>06b20e79-ab70-4159-9556-0956d86914ec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'bse'</defaultValue>
+      <description></description>
+      <id>c7f10f75-64c0-453c-9cb4-059fc9365001</id>
+      <masked>false</masked>
+      <name>s1</name>
+   </variable>
+   <variable>
+      <defaultValue>'bse.admin'</defaultValue>
+      <description></description>
+      <id>26fd08a7-8000-4716-aed3-df1d6736cee4</id>
+      <masked>false</masked>
+      <name>s2</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234'</defaultValue>
+      <description></description>
+      <id>06b20e79-ab70-4159-9556-0956d86914ec</id>
+      <masked>false</masked>
+      <name>s3</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Register to Book StoreFirst Name Last _8edb18</name>
+   <tag></tag>
+   <elementGuidId>de7edda2-ec4e-4970-b6bd-edfac8b725e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='userForm']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#userForm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Register to Book StoreFirst Name :Last Name : UserName : Password : RegisterBack&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>7e0a1d9a-236d-40c1-9cc4-0a8fe21dd9fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>userForm</value>
+      <webElementGuid>ddda87c4-e1b5-4be2-8022-49b276d72649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register to Book StoreFirst Name :Last Name : UserName : Password : RegisterBack to Login</value>
+      <webElementGuid>ae23f7fa-1d10-4474-b1fa-6ccee4fe36af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userForm&quot;)</value>
+      <webElementGuid>97bb79db-1f7c-4ae6-a253-d7c3b0aee71e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//form[@id='userForm']</value>
+      <webElementGuid>6eb1c354-af8b-4698-ae80-df277da16488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[2]/div[2]/form</value>
+      <webElementGuid>b3eb8717-f2c0-4a75-8a52-5b5f852bf549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::form[1]</value>
+      <webElementGuid>bb982e04-c16a-48c7-95c3-711864971d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Store API'])[1]/following::form[1]</value>
+      <webElementGuid>7738494d-cb88-4389-9de2-f2f8dc507940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form</value>
+      <webElementGuid>f29059d3-ed66-44f3-b38d-43cac1868e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[@id = 'userForm' and (text() = 'Register to Book StoreFirst Name :Last Name : UserName : Password : RegisterBack to Login' or . = 'Register to Book StoreFirst Name :Last Name : UserName : Password : RegisterBack to Login')]</value>
+      <webElementGuid>ef05d20d-5db5-4d3a-ad6c-de3364fbf819</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

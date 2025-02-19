@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Group 1Group 1, option 1Group 1, option_46ceea</name>
+   <tag></tag>
+   <elementGuidId>4ed4586b-b5ad-49c7-865a-1f84a5fb894b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='withOptGroup']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1625cve</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Group 1Group 1, option 1Group 1, option 2Group 2Group 2, option 1Group 2, option&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e14a913b-b5c6-43cf-b47b-41e29ff95718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1625cve</value>
+      <webElementGuid>321a2a27-0daa-4d5e-87c4-5ab3a24c5ee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Group 1Group 1, option 1Group 1, option 2Group 2Group 2, option 1Group 2, option 2A root optionAnother root option</value>
+      <webElementGuid>94b7d4e6-abc9-4bcc-bf29-859256608d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;withOptGroup&quot;)/div[@class=&quot;css-26l3qy-menu&quot;]/div[@class=&quot;css-1625cve&quot;]</value>
+      <webElementGuid>2d4720f3-60cc-4157-b37f-322c1391d100</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='withOptGroup']/div[2]/div</value>
+      <webElementGuid>e29ba719-4ac2-4b7d-af70-b5b512077c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Option'])[1]/following::div[7]</value>
+      <webElementGuid>52de35d0-e95b-4bd4-b41b-d2d57c60567d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Value'])[1]/following::div[13]</value>
+      <webElementGuid>b3005827-562f-46b1-9621-0a68f0d2d265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div</value>
+      <webElementGuid>499b4896-0cb7-4e07-aa53-d9bd0a3d80be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Group 1Group 1, option 1Group 1, option 2Group 2Group 2, option 1Group 2, option 2A root optionAnother root option' or . = 'Group 1Group 1, option 1Group 1, option 2Group 2Group 2, option 1Group 2, option 2A root optionAnother root option')]</value>
+      <webElementGuid>afe34c26-76f2-4d14-b104-a0d3794d2026</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

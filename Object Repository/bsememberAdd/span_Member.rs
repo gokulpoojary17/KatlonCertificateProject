@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Member</name>
+   <tag></tag>
+   <elementGuidId>521e4ee1-9db8-48ee-899a-72a59ce0018f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='flush-heading130']/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#flush-heading130 > button.accordion-button > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;file-icon Member&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>534d9abe-942a-4da1-b67f-0075b0a613d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Member</value>
+      <webElementGuid>96f83365-c720-4e12-a3b0-0a8ddd5e5cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flush-heading130&quot;)/button[@class=&quot;accordion-button&quot;]/span[1]</value>
+      <webElementGuid>d85357ab-fb9a-4421-adbc-45b2002f3c60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h2[@id='flush-heading130']/button/span</value>
+      <webElementGuid>1af518db-5d6a-4ba0-9e44-33b2d7a9a91a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[1]/following::span[1]</value>
+      <webElementGuid>6f204406-a8d5-4c5b-9540-4ffc9581eaec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scheme'])[1]/following::span[1]</value>
+      <webElementGuid>19697cd2-26a4-4cd7-9398-706d94c48ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Onboarding'])[2]/preceding::span[1]</value>
+      <webElementGuid>a2143658-5125-4a7c-8af2-a6bdeae50ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suspension'])[1]/preceding::span[1]</value>
+      <webElementGuid>bbe393d1-af2d-407c-9385-d1c045983fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Member']/parent::*</value>
+      <webElementGuid>73727ff4-5a8e-4642-9756-7a8af00dcd7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/h2/button/span</value>
+      <webElementGuid>5a556ae1-267f-4d0c-b3e2-388d54d57961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Member' or . = 'Member')]</value>
+      <webElementGuid>9c17baff-60d1-4d05-b48b-01347341c11a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

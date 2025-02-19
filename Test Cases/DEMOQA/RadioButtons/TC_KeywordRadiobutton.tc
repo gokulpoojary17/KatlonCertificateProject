@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_KeywordRadiobutton</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f0cc53a-e0f6-49e6-bbbe-e24adbba44ca</testCaseGuid>
+</TestCaseEntity>

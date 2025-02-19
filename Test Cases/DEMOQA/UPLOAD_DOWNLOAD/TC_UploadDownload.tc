@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_UploadDownload</name>
+   <tag>GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dea7edb3-3cf9-44f5-8f4a-847b68cbd0d7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Autocomplete1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dd1b8d1-c69c-4724-be6d-2d9aa75eb2a3</testCaseGuid>
+</TestCaseEntity>

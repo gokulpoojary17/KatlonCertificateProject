@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_BSE-logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a8cb02d6-a4d0-46ad-87bc-aa00ce8abc28</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b3e8ce17-2f37-4ea4-a645-4996d111da16</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestDataInbuild</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b3e8ce17-2f37-4ea4-a645-4996d111da16</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>s1</value>
+      <variableId>66d12c3f-56f5-435e-bcbb-cca6dce4d542</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b3e8ce17-2f37-4ea4-a645-4996d111da16</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>s2</value>
+      <variableId>607a9e98-877d-43aa-8515-79f1014268df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>b3e8ce17-2f37-4ea4-a645-4996d111da16</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>s3</value>
+      <variableId>a784616a-2c21-4d7f-8e9b-8fa2bf2bca53</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'bse'</defaultValue>
+      <description></description>
+      <id>66d12c3f-56f5-435e-bcbb-cca6dce4d542</id>
+      <masked>false</masked>
+      <name>s1</name>
+   </variable>
+   <variable>
+      <defaultValue>'bse.admin'</defaultValue>
+      <description></description>
+      <id>607a9e98-877d-43aa-8515-79f1014268df</id>
+      <masked>false</masked>
+      <name>s2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a784616a-2c21-4d7f-8e9b-8fa2bf2bca53</id>
+      <masked>false</masked>
+      <name>s3</name>
+   </variable>
+</TestCaseEntity>
