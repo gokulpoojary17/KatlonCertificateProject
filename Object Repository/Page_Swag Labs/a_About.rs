@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fe4fb943-ee7a-4a39-ac5d-6a4c09cfb775</webElementGuid>
+      <webElementGuid>38391d9d-b364-4c2a-8b0f-12e4cecb3871</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>about_sidebar_link</value>
-      <webElementGuid>59649ff3-e6ad-4e07-b7ce-7002b7becde8</webElementGuid>
+      <webElementGuid>f6696af8-2b90-4949-8dda-fec9305946b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bm-item menu-item</value>
-      <webElementGuid>028709c8-21cb-4c77-84ee-50b00319b96e</webElementGuid>
+      <webElementGuid>2dc17605-cc22-4a54-ade3-8ada6ae9f40e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://saucelabs.com/</value>
-      <webElementGuid>c177323c-afe3-43bb-a68b-3cb49cbd26eb</webElementGuid>
+      <webElementGuid>c7352a47-2cf2-4de7-ad50-bcbdd677e615</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>about-sidebar-link</value>
-      <webElementGuid>57cac66e-9b57-46df-92ff-53c4fb999781</webElementGuid>
+      <webElementGuid>7d9c4d9d-2d0b-4925-bbf2-4ee9661dac6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>About</value>
-      <webElementGuid>f9fd9784-b2c9-4bf3-b10c-dddb2cb6a830</webElementGuid>
+      <webElementGuid>1f42a6d0-502b-400d-bf4d-73ee24c251ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;about_sidebar_link&quot;)</value>
-      <webElementGuid>9641dea9-74ef-4a17-952a-b72b07c5c303</webElementGuid>
+      <webElementGuid>dd61b1d0-f8c7-4c70-bb13-974c2b90172c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='about_sidebar_link']</value>
-      <webElementGuid>507c1381-cde9-42d3-b620-fe8526349d52</webElementGuid>
+      <webElementGuid>1533e7df-6d3b-4f2f-9b82-31cf44363f7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='menu_button_container']/div/div[2]/div/nav/a[2]</value>
-      <webElementGuid>d3b49d3b-2f83-4b23-9d47-6bf650a24572</webElementGuid>
+      <webElementGuid>a0f49979-1491-49e7-89f9-f2cc5fa9cd1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'About')]</value>
-      <webElementGuid>01b3693a-d9d6-4873-854a-36e6b9b03054</webElementGuid>
+      <webElementGuid>c4efd046-5838-4606-b1d5-7c1436b8ac8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::a[2]</value>
-      <webElementGuid>2986bc98-efba-4da4-b1bc-b74bd59c1eb4</webElementGuid>
+      <webElementGuid>7504952b-b260-4fe2-90fc-4b5a6f1acb00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/preceding::a[3]</value>
-      <webElementGuid>7e728800-f8de-4d0c-83c1-3102c5509405</webElementGuid>
+      <webElementGuid>2e710e19-b2ea-481a-946b-e27469ddc1ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/preceding::a[3]</value>
-      <webElementGuid>0ae36407-4d38-47ca-bafb-1ab61c390f92</webElementGuid>
+      <webElementGuid>79eb8a56-173c-4cac-82a0-e90d9571c218</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='About']/parent::*</value>
-      <webElementGuid>0cfc2240-8d52-44f8-8861-64b1f2427fa9</webElementGuid>
+      <webElementGuid>e0a46164-fc38-4d14-9074-e74b1112ce8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://saucelabs.com/')]</value>
-      <webElementGuid>58376cd8-a623-4bf1-bfa3-b10db8421f5d</webElementGuid>
+      <webElementGuid>6bb9df1a-7201-41ab-8887-78c67e2591c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>79e93d00-dd9d-45fa-9224-f8bdf77cfa8e</webElementGuid>
+      <webElementGuid>58e4c3fb-575c-43b3-acf8-968a6e188595</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'about_sidebar_link' and @href = 'https://saucelabs.com/' and (text() = 'About' or . = 'About')]</value>
-      <webElementGuid>445f41e1-714b-4c43-9f89-c19beddd1919</webElementGuid>
+      <webElementGuid>5fc000c2-06a8-4219-9988-da829ea43679</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

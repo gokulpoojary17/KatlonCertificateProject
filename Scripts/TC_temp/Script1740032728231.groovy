@@ -19,22 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://qa.starmfv2.remiges.tech/auth/realms/starmfv2-qa/protocol/openid-connect/auth?client_id=starmfv2-qa-web-client&redirect_uri=https%3A%2F%2Fqa.starmfv2.remiges.tech&state=1607f349-5e01-47c8-8fcd-9ff44a0a1d2a&response_mode=fragment&response_type=code&scope=openid&nonce=b9764689-707b-4a5b-81d2-ac9b8b013f65&code_challenge=peNmIDDpRcumleA8unaWrr8TGAQF2uiPkCSoP-LfJSs&code_challenge_method=S256')
+WebUI.navigateToUrl('https://www.saucedemo.com/')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/BSE_Login/select_I am a MemberI am an AMCI am an Exch_0b0339'), 
-    'exchange', true)
+WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_user-name'), 'standard_user')
 
-WebUI.setText(findTestObject('Object Repository/BSE_Login/input_Sign In With Your BSE StAR MF Account_e76d55'), s1)
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_password'), 'qcu24s4901FyWDTwXGr6XA==')
 
-WebUI.setText(findTestObject('Object Repository/BSE_Login/input_Sign In With Your BSE StAR MF Account_userId'), s2)
+WebUI.sendKeys(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_password'), Keys.chord(Keys.ENTER))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/BSE_Login/input_Password_password'), 'cX9mQrRnatgxE2mWh+Fbtw==')
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Open Menu'))
 
-WebUI.setText(findTestObject('Object Repository/BSE_Login/input_Password_user_captcha'), '1234')
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_All Items'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/BSE_Login/button_Sign In'), 0)
-
-WebUI.click(findTestObject('Object Repository/BSE_Login/button_Sign In'))
+WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Close Menu'))
 
 WebUI.closeBrowser()
 

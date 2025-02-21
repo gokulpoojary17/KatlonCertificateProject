@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Open Menu</name>
+   <name>button_Confirm</name>
    <tag></tag>
-   <elementGuidId>123e8af6-e476-4c64-9d9a-e7aa0923056f</elementGuidId>
+   <elementGuidId>6846055d-9e12-4117-9364-519a5f897107</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='react-burger-menu-btn']</value>
+         <value>//button[@type='submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#react-burger-menu-btn</value>
+         <value>button.oxd-button.oxd-button--large.oxd-button--secondary.orangehrm-admin-access-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Open Menu&quot;i]</value>
+         <value>internal:role=button[name=&quot;Confirm&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8fe85f29-c35b-496e-9422-88d5c49b06d0</webElementGuid>
+      <webElementGuid>5582a2fb-3ce8-4e4e-8972-e268fe56f234</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>30dfc6fa-496d-47df-9400-1a4599395409</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>602c2ec7-648f-4cdc-b10a-d77e061b4d85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>react-burger-menu-btn</value>
-      <webElementGuid>29cf5c56-9e56-488a-9e5a-69fb91875457</webElementGuid>
+      <value>oxd-button oxd-button--large oxd-button--secondary orangehrm-admin-access-button</value>
+      <webElementGuid>d7dfef93-c400-4667-8954-afcd57dbae5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Open Menu</value>
-      <webElementGuid>f9bf7e9f-501d-4e2e-b8e8-4ebeea59b52b</webElementGuid>
+      <value> Confirm </value>
+      <webElementGuid>752c84d2-29aa-4fbb-acae-4a4dcc8463db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-burger-menu-btn&quot;)</value>
-      <webElementGuid>c555397f-c7ab-4b62-86fa-306aa9918dbc</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-admin-access-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;orangehrm-admin-access-button-container&quot;]/button[@class=&quot;oxd-button oxd-button--large oxd-button--secondary orangehrm-admin-access-button&quot;]</value>
+      <webElementGuid>cd83091a-2d36-4288-a044-d584e81b7b59</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='react-burger-menu-btn']</value>
-      <webElementGuid>d7679b54-a077-4cae-8701-f2c5a5deb8b9</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>e40f560c-935c-4196-bf0b-a059cde77310</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='menu_button_container']/div/div/div/button</value>
-      <webElementGuid>5a50eafc-7cac-4441-a07d-5a435f208318</webElementGuid>
+      <value>//div[@id='app']/div/div/form/div[4]/button[2]</value>
+      <webElementGuid>fd33a097-8982-470e-bd44-c9cb34d6117f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::button[1]</value>
-      <webElementGuid>f51d4ab2-fd86-4bc0-a4ee-e4b73441691e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[2]</value>
+      <webElementGuid>2263bfd2-450c-4151-bc6a-97c20ef805ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/preceding::button[1]</value>
-      <webElementGuid>e77b00a5-32b0-47d6-837d-6003f83efa33</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/preceding::button[1]</value>
+      <webElementGuid>cfd85a67-98c7-432c-9f87-f1fa3ed6c2a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Open Menu']/parent::*</value>
-      <webElementGuid>2ca2a6b2-d2c0-481d-a463-adf1b6bb0ee2</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
+      <webElementGuid>25b621a1-035b-42ac-93d2-d8a1e6cb0126</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>4b7edd2b-415b-42cc-88d2-734501b35e43</webElementGuid>
+      <value>//button[2]</value>
+      <webElementGuid>427c461d-f3f8-4d80-8882-91b4258b0e32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'react-burger-menu-btn' and (text() = 'Open Menu' or . = 'Open Menu')]</value>
-      <webElementGuid>54d6a62c-d05b-4e5f-ac0b-af14174b18f5</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = ' Confirm ' or . = ' Confirm ')]</value>
+      <webElementGuid>aacf7dee-49bb-44c1-b8fe-4444bd48ea39</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

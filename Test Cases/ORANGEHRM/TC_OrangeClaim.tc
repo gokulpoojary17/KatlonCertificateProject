@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_OrangeClaim</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9cb8f12d-3b7b-4a61-88f2-fa9bd6001c29</testCaseGuid>
+</TestCaseEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8e4019c5-903c-423a-a197-4929777d2e84</webElementGuid>
+      <webElementGuid>fb1f58b7-7ed4-4484-ac5a-db57ecef4245</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>inventory_sidebar_link</value>
-      <webElementGuid>19080dc8-2beb-45f2-a025-c48ccd22a4cf</webElementGuid>
+      <webElementGuid>aa3c73a7-3328-4ac7-96cc-7e1bddef08e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bm-item menu-item</value>
-      <webElementGuid>8bd2d3ce-8d9f-4f0a-9d17-01dee8352317</webElementGuid>
+      <webElementGuid>50741697-30c7-4a29-a85b-375e9769144a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>87817ecf-453d-443b-9ea1-ec41dcc105f4</webElementGuid>
+      <webElementGuid>be1b9c54-4c30-4816-a1fb-fc4f2b6e6bad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-test</name>
       <type>Main</type>
       <value>inventory-sidebar-link</value>
-      <webElementGuid>31d78270-7339-4c6e-bc33-fdc7bef82a70</webElementGuid>
+      <webElementGuid>2b4ec9ca-845c-4185-8797-7ccd671262c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>All Items</value>
-      <webElementGuid>8b748e14-3f2c-4d05-9bac-96e2c2cd9622</webElementGuid>
+      <webElementGuid>a9ee243b-872f-4b9c-98f3-b4363679b676</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;inventory_sidebar_link&quot;)</value>
-      <webElementGuid>8440cd3e-469c-4d50-8418-06291fe6d470</webElementGuid>
+      <webElementGuid>88e5380b-a01b-4345-9cac-e370a888d55b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='inventory_sidebar_link']</value>
-      <webElementGuid>f7993d89-c3c9-4feb-afed-d69cdfccdeb8</webElementGuid>
+      <webElementGuid>93b2d304-de4b-4e5d-b2b6-3ecfea00c682</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='menu_button_container']/div/div[2]/div/nav/a</value>
-      <webElementGuid>feec8fc3-cbcb-46e9-bf47-309bfcec0f43</webElementGuid>
+      <webElementGuid>d16e512b-ca28-4ea1-9ea7-cee6fc598ca4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'All Items')]</value>
-      <webElementGuid>07baf7de-a339-44f7-9b6a-acd7785ff598</webElementGuid>
+      <webElementGuid>1908f2fb-c748-46ea-ab4b-cef98dd8e78c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::a[1]</value>
-      <webElementGuid>43cab18b-5e04-4146-8f63-1f31ef037ecf</webElementGuid>
+      <webElementGuid>26d71a6e-3490-4262-9f0b-63bb246466ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::a[1]</value>
-      <webElementGuid>5d125a96-e1a9-4180-bd93-22a3d116697e</webElementGuid>
+      <webElementGuid>da30b583-b771-4012-8cfb-fd9883fc94b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/preceding::a[4]</value>
-      <webElementGuid>aa6d9f38-a13f-4333-adce-d83d1077f4d7</webElementGuid>
+      <webElementGuid>cfdd28ed-903e-41ee-a892-26f10838688d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='All Items']/parent::*</value>
-      <webElementGuid>4e40901d-fc84-4086-9140-7c770ba3f129</webElementGuid>
+      <webElementGuid>a0fae94a-8bb9-4e96-9ead-20391f7627ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>f1197192-9f26-47aa-93ca-e68a19846163</webElementGuid>
+      <webElementGuid>11ec3522-1aab-4a5a-a305-e88f20e1dd6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>8f50fb53-5372-47fd-85c7-2a42b4c8e289</webElementGuid>
+      <webElementGuid>b3d08364-af96-4924-887d-e4c71518f174</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,6 +157,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'inventory_sidebar_link' and @href = '#' and (text() = 'All Items' or . = 'All Items')]</value>
-      <webElementGuid>862c331d-60b3-4f71-a8d2-687d7bc056ab</webElementGuid>
+      <webElementGuid>f29be797-c767-454a-98f9-5faf1209096c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
